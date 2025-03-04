@@ -1,0 +1,9 @@
+The PLUS model is developed by the High Performance Spatial Computing Intelligence Laboratory (HPSCIL) of the School of Geography and Information Engineering & National GIS Engineering and Technology Research Center of China University of Geosciences (Wuhan).
+
+URL:https://www.urbancomp.net/archives/plus;
+
+Model download:https://github.com/HPSCIL/Patch-generating_Land_Use_Simulation_Model;
+
+Literature developed by PLUS, paper by Mr. Liang Xun:Liang X, Guan Q, Clarke K C, et al. Understanding the drivers of sustainable land expansion using a patch-generating land use simulation (PLUS) model: a case study in Wuhan, China[J]. Computers, Environment and Urban Systems, 2021, 85: 101569.
+
+The PLUS model is a raster data-based cellular automata (CA) model that can be used to simulate land use/land cover (LULC) changes at the patch scale.The PLUS model integrates a rule-mining method based on land expansion analysis and a CA model based on a multi-type stochastic seeding mechanism, which can be used to mine the drivers of land expansion and to predict the evolution of the land use landscape at the patch level. The development process comes from Mr. Liang Xun's lecture: New Land Use Change Simulation Theory, Models and Software: From FLUS Series Model to OS-CA, PLUS and Hybrid Metacellular CA; the video of the lecture：https://www.bilibili.com/video/BV1si4y1P7Q3
